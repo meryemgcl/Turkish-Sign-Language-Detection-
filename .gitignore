@@ -1,0 +1,15 @@
+# Dataset and environments
+TSL-DATASET/
+__MACOSX/
+TSL-DATASET.zip
+
+# Python files
+__pycache__/
+*.pyc
+
+# Local machine learning files
+# İsterseniz model.h5 ve keypoint.csv'yi başkaları da kullansın diye yükleyebilirsiniz.
+# Bu yüzden onları buraya eklemiyorum.
+
+# Vscode settings
+.vscode/
