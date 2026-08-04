@@ -22,8 +22,8 @@
 
 ---
 
-## 📸 Ekran Görüntüsü
-> *(Buraya proje çalışırken kameradan alınmış bir ekran görüntüsünü sonradan ekleyebilirsiniz: `![Demo](images/demo.png)`)*
+## 📸 TİD Alfabesi
+![Türk İşaret Dili Alfabesi](images/tid_alfabesi.png)
 
 ---
 
@@ -120,9 +120,12 @@ python realtime_detection.py
 
 ---
 
-## Veri Seti Teşekkürü
+## 📊 Veri Seti (Dataset)
+Projeyi sıfırdan kendi bilgisayarınızda eğitmek isterseniz, TİD alfabesine ait on binlerce fotoğrafı barındıran açık kaynaklı veri setini doğrudan Kaggle veya Dropbox üzerinden indirebilirsiniz:
+* 📥 [Veri Setini Kaggle'dan İndir (Örnek Link)](#)
+* 📥 [Orijinal Makale Dropbox Linki](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 
-Bu proje mimarisinin oluşturulmasına zemin hazırlayan veri seti (TSL-DATASET) açık kaynaklı bir araştırmadan elde edilmiştir:
+> Bu veri seti aşağıdaki makaleye dayanmaktadır:
 > *Temel, T., & Vural, R. A. (2023). Turkish Sign Language Recognition Using CNN with New Alphabet Dataset.*
 
 ---
